@@ -1,6 +1,6 @@
 public class ClearBit {
     public static void main(String[] args) {
-        // 3--> Get Bit Operation
+        // Get Bit Operation
         int n = 5; // 0101
         int pos = 2;
         int bitmask = 1 << pos;
