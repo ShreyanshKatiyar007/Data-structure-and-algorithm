@@ -1,1 +1,1 @@
-# Data-structure-and-algorithm
+This repository contain my journey of learning DSA 
