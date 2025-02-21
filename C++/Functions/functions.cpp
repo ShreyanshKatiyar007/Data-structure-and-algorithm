@@ -18,6 +18,6 @@ int power()
 
 int main()
 {
-
-    cout << "power of " << power() << endl; // Function call
+    int answer = power();
+    cout << answer << endl; // Function call
 }
